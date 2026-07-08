@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+chromadb
+pymupdf
+langchain
+langchain-text-splitters
+google-genai
+supabase
+python-multipart
+python-dotenv
+pydantic-settings
+httpx
+rank-bm25
+python-jose[cryptography]

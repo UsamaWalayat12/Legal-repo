@@ -1,0 +1,36 @@
+================================================================================
+SAMPLE RESIDENTIAL LEASE AGREEMENT (For Demo Purposes Only)
+================================================================================
+
+This Residential Lease Agreement is made on February 1, 2024 between
+Landlord (Lessor) and Tenant (Lessee).
+
+1. PROPERTY
+   The landlord agrees to rent the property located at 123 Main Street,
+   Apartment 4B, Anytown, USA.
+
+2. TERM
+   The lease term shall be twelve (12) months, commencing on March 1, 2024
+   and ending on February 28, 2025.
+
+3. RENT
+   Monthly rent is $1,500.00, payable on the first day of each month.
+   A late fee of $50.00 applies if rent is not received by the 5th day of
+   the month.
+
+4. SECURITY DEPOSIT
+   A security deposit of $1,500.00 is required upon signing. The deposit
+   shall be returned within 30 days of lease termination, less any deductions
+   for damages beyond normal wear and tear.
+
+5. UTILITIES
+   Tenant is responsible for electricity, gas, and internet. Landlord is
+   responsible for water and trash collection.
+
+6. PET POLICY
+   No pets are allowed without prior written consent of the landlord.
+   A pet deposit of $300.00 may be required if approved.
+
+7. NOTICE PERIOD
+   Either party must provide thirty (30) days written notice for
+   termination or non-renewal of the lease.

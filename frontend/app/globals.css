@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  background: #ffffff;
+  color: #171717;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Force all inputs to have visible dark text */
+input, textarea, select {
+  color: #171717 !important;
+  background-color: #ffffff !important;
+}
